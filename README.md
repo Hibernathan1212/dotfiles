@@ -1,3 +1,3 @@
 # Dotfiles
 
-Collection of dotfiles for different apps
+Collection of my dotfiles
